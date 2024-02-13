@@ -1,9 +1,9 @@
-
+```markdown
 # Hello, I'm Hannah Ragudos 👋
 
 ## 🎨 Designer | Advocate | Explorer | 🎬 Filmmaker & Writer
 
-
+```javascript
 // Welcome to Hannah's GitHub profile
 const hannah = {
   greeting: "Welcome to my GitHub!",
@@ -16,7 +16,7 @@ const hannah = {
 hannah.connect = function() {
   console.log("Let's blend art, technology, and storytelling to inspire and innovate!");
 };
-
+```
 
 ### 🌟 About Me
 
@@ -47,10 +47,11 @@ hannah.connect = function() {
 
 ### 📊 My GitHub Stats
 
-![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragudos-hannah&show_icons=true&theme=calm)
+![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahragudos&show_icons=true&theme=calm)
 
 ### 📬 Get in Touch
 
 - LinkedIn: [Hannah Ragudos](https://www.linkedin.com/in/hannah-ragudos-a1394a1b9/)
 - Email: [hannahragudos@email.com](mailto:hannahragudos@email.com)
 
+```
