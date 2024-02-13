@@ -1,9 +1,9 @@
-```markdown
+
 # Hello, I'm Hannah Ragudos 👋
 
 ## 🎨 Designer | Advocate | Explorer | 🎬 Filmmaker & Writer
 
-```javascript
+
 // Welcome to Hannah's GitHub profile
 const hannah = {
   greeting: "Welcome to my GitHub!",
@@ -16,7 +16,7 @@ const hannah = {
 hannah.connect = function() {
   console.log("Let's blend art, technology, and storytelling to inspire and innovate!");
 };
-```
+
 
 ### 🌟 About Me
 
@@ -54,4 +54,3 @@ hannah.connect = function() {
 - LinkedIn: [Hannah Ragudos](https://www.linkedin.com/in/hannah-ragudos-a1394a1b9/)
 - Email: [hannahragudos@email.com](mailto:hannahragudos@email.com)
 
-```
