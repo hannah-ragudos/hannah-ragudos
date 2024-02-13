@@ -2,7 +2,7 @@
 
 ## 🎨 Designer | Advocate | Explorer | 🎬 Filmmaker & Writer
 
-Welcome to my GitHub! I'm Hannah, a Computer Science student from Saint Louis Univerity passionate for design, storytelling, and technology. Alongside my love for graphic and UX/UI design, I am a film director and writer, bringing stories to life through the lens of my camera and the stroke of my pen. I aspire to blend my creative talents with my growing interest in software engineering, aiming to craft immersive experiences both on and off the screen.
+Welcome to my GitHub! I'm Hannah, a Computer Science student from Saint Louis University, passionate for design, storytelling, and technology. Alongside my love for graphic and UX/UI design, I am a film director and writer, bringing stories to life through the lens of my camera and the stroke of my pen. I aspire to blend my creative talents with my growing interest in software engineering, aiming to craft immersive experiences both on and off the screen.
 
 ### 🌟 About Me
 
