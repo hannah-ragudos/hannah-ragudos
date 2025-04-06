@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Hannah Ragudos
 
-I'm a Computer Science student from **Saint Louis University**, a filmmaker, and an aspiring software developer. I focus on **UI/UX design** and **frontend development** — building interfaces that are clean, intuitive, and purposeful. I’m passionate about using design to solve real problems, especially in education, accessibility, and community-based projects.
+I'm a Computer Science student from **Saint Louis University**, a filmmaker, and an aspiring software developer. I focus on **UI/UX design** and **frontend development** — building interfaces that are clean, intuitive, and purposeful. I’m passionate about using design to solve real problems. I'm especially interested in **UI/UX research**, **user-centered design**, and **AI-driven experiences**. I enjoy exploring how design and technology shape behavior, enhance accessibility, and create consistent, meaningful interactions.
 
 ---
 
@@ -26,16 +26,9 @@ I'm a Computer Science student from **Saint Louis University**, a filmmaker, and
 </p>
 
 ---
-
-### Interests
-
-I'm especially interested in **UI/UX research**, **user-centered design**, and **AI-driven experiences**. I enjoy exploring how design and technology shape behavior, enhance accessibility, and create consistent, meaningful interactions.
-
 ### 🎬 On the Side
 
-When I’m not coding or designing, I enjoy filmmaking as a creative outlet.  
-I’ve directed short films, produced video presentations, and participated in film festivals as a **Film Ambassador for the FDCP**.  
-Storytelling through film helps me approach design with emotion, intention, and human focus.
+When I’m not coding or designing, I enjoy filmmaking as a creative outlet. I’ve directed short films, produced video presentations, and participated in film festivals as a **Film Ambassador for the FDCP**. Storytelling through film helps me approach design with emotion, intention, and human focus.
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
