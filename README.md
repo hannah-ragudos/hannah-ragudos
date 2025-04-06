@@ -38,21 +38,11 @@ I’ve directed short films, produced video presentations, and participated in f
 Storytelling through film helps me approach design with emotion, intention, and human focus.
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ragudos-hannah&show_icons=true&theme=default&hide_title=true&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragudos-hannah&layout=compact&theme=default&hide_title=true&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ragudos-hannah&show_icons=true&theme=default&hide_title=true&hide_border=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragudos-hannah&layout=compact&theme=default&hide_title=true&hide_border=true" />
+</div>
 
-
-### Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=ragudos-hannah&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -64,3 +54,5 @@ Storytelling through film helps me approach design with emotion, intention, and 
 - Email: hannahragudos@email.com  
 
 Thanks for dropping by — I’m always up for chatting about design, dev, research, or storytelling.
+
+![Profile Views](https://komarev.com/ghpvc/?username=ragudos-hannah&label=Profile%20Views&color=0e75b6&style=flat)
