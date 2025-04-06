@@ -29,12 +29,7 @@ I'm a Computer Science student from **Saint Louis University**, a filmmaker, and
 
 ### Interests
 
-I'm especially interested in:
-
-- **UI/UX research** – studying how people interact with systems and how design can shape their experiences  
-- **User-centered design** – creating meaningful digital experiences rooted in empathy and usability  
-- **Artificial Intelligence** – exploring how AI can improve interfaces, personalization, and accessibility  
-- **Design systems & interaction design** – crafting consistency across digital products
+I'm especially interested in UI/UX research, where I explore how people interact with systems and how thoughtful design can shape their experiences. I’m drawn to user-centered design, creating digital products that are rooted in empathy, accessibility, and real human needs. I also have a growing curiosity in artificial intelligence, particularly how it can enhance user interfaces, personalize experiences, and improve overall usability. Lastly, I enjoy working with design systems and interaction design, building consistent, scalable, and engaging design patterns across digital platforms.
 
 ---
 
