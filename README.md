@@ -29,7 +29,7 @@ I'm a Computer Science student from **Saint Louis University**, a filmmaker, and
 
 ### Interests
 
-I'm especially interested in UI/UX research, where I explore how people interact with systems and how thoughtful design can shape their experiences. I’m drawn to user-centered design, creating digital products that are rooted in empathy, accessibility, and real human needs. I also have a growing curiosity in artificial intelligence, particularly how it can enhance user interfaces, personalize experiences, and improve overall usability. Lastly, I enjoy working with design systems and interaction design, building consistent, scalable, and engaging design patterns across digital platforms.
+I'm especially interested in **UI/UX research**, **user-centered design**, and **AI-driven experiences**. I enjoy exploring how design and technology shape behavior, enhance accessibility, and create consistent, meaningful interactions.
 
 ---
 
@@ -40,8 +40,6 @@ I’ve directed short films, produced video presentations, and participated in f
 Storytelling through film helps me approach design with emotion, intention, and human focus.
 
 ---
-
-### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ragudos-hannah&show_icons=true&theme=default"/>
