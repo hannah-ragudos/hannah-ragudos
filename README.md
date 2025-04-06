@@ -31,22 +31,24 @@ I'm a Computer Science student from **Saint Louis University**, a filmmaker, and
 
 I'm especially interested in **UI/UX research**, **user-centered design**, and **AI-driven experiences**. I enjoy exploring how design and technology shape behavior, enhance accessibility, and create consistent, meaningful interactions.
 
----
-
 ### 🎬 On the Side
 
 When I’m not coding or designing, I enjoy filmmaking as a creative outlet.  
 I’ve directed short films, produced video presentations, and participated in film festivals as a **Film Ambassador for the FDCP**.  
 Storytelling through film helps me approach design with emotion, intention, and human focus.
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragudos-hannah&show_icons=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragudos-hannah&layout=compact"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ragudos-hannah&show_icons=true&theme=default&hide_title=true&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragudos-hannah&layout=compact&theme=default&hide_title=true&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
----
 
 ### Profile Views
 
