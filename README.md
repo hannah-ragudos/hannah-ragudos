@@ -37,14 +37,19 @@ When I’m not coding or designing, I enjoy filmmaking as a creative outlet.
 I’ve directed short films, produced video presentations, and participated in film festivals as a **Film Ambassador for the FDCP**.  
 Storytelling through film helps me approach design with emotion, intention, and human focus.
 
-### Github Stats
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragudos-hannah&show_icons=true&theme=default&hide_title=true&hide_border=true&card_width=400" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragudos-hannah&layout=compact&theme=default&hide_title=true&hide_border=true&card_width=400" width="400" height="200"/>
+  <div>
+    <h4 align="center">📘 GitHub Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=ragudos-hannah&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&card_width=400" width="400" height="200"/>
+  </div>
+
+  <div>
+    <h4 align="center">🧠 Most Used Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragudos-hannah&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&card_width=400" width="400" height="200"/>
+  </div>
+
 </div>
-
-
 
 ---
 
