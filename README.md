@@ -33,11 +33,6 @@ When I’m not coding or designing, I enjoy filmmaking as a creative outlet. I�
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <div style="text-align: center;">
-    <h3>📘 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=ragudos-hannah&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&card_width=400" width="400" height="200"/>
-  </div>
-
-  <div style="text-align: center;">
     <h3>🧠 Most Used Languages</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragudos-hannah&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&card_width=400" width="400" height="200"/>
   </div>
